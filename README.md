@@ -1,3 +1,3 @@
 # Desafio_NewSchool
 
-Desafio final da trilha Start Tech.
+Primeiro desafio com python da trilha Start Tech.
